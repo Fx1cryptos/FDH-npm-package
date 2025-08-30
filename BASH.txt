@@ -1,0 +1,2 @@
+git clone https://github.com/Fx1cryptos/FDH-npm-package.git
+cd FDH-npm-package
