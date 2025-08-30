@@ -1,0 +1,22 @@
+{
+  "name": "@fx1cryptos/fdh-npm-package",
+  "version": "1.0.0",
+  "description": "A lightweight npm package for React applications",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "test": "vitest"
+  },
+  "keywords": ["react", "vite", "npm"],
+  "author": "Fx1cryptos",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fx1cryptos/FDH-npm-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fx1cryptos/FDH-npm-package/issues"
+  },
+  "homepage": "https://github.com/Fx1cryptos/FDH-npm-package#readme"
+}
